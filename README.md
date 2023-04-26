@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am a highly skilled and experienced software and full-stack developer with expertise in a wide range of programming languages and technologies. <br>I have a strong background in web development and have a deep understanding of front-end and back-end technologies. <br>I have a strong background in developing and maintaining complex software systems, and I am able to work effectively in both individual and team environments.
+Hi there! I'm a versatile software developer as a fullstack developer.I have experience in programming languages like Python,PHP, C#, JavaScript etc.
+I'm experienced with a variety of frameworks and libraries including Bootstrap Django Flutter and jQuery etc.
+I'm comfortable working in a Linux environment and have experience using creative software like Adobe After Effects, Illustrator, Lightroom, Photoshop, and Premiere Pro.
+I enjoy collaborating with designers and other developers to create high-quality products. Whether it's designing user experiences or  working on the backend I'm always eager to take on new challenges and learn new skills...
 
 
 ## 🌐 Socials:
